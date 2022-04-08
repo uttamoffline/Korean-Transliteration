@@ -1,10 +1,5 @@
 import re
-'''
-This romanizer is largely inspired by Ilkyu Ju (@osori) and contains slight modifications
-    - partial / incomplete korean syllables (i.e. ㅋㅋㅋ)
-    - specific 'consonant followed by vowel' cases
-    - begin to tackle consonant assimilation cases
-'''
+
 
 '''
 ### Vowels ###
